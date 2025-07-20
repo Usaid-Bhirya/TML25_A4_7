@@ -1,0 +1,153 @@
+Grad-CAM Analysis Report
+==================================================
+
+Image: West_Highland_white_terrier
+------------------------------
+GRADCAM:
+  Predicted Class: West Highland white terrier
+  Confidence: 0.5322
+  Class ID: 203
+ABLATIONCAM:
+  Predicted Class: West Highland white terrier
+  Confidence: 0.5322
+  Class ID: 203
+SCORECAM:
+  Predicted Class: West Highland white terrier
+  Confidence: 0.5322
+  Class ID: 203
+
+Image: American_coot
+------------------------------
+GRADCAM:
+  Predicted Class: American coot
+  Confidence: 0.5985
+  Class ID: 137
+ABLATIONCAM:
+  Predicted Class: American coot
+  Confidence: 0.5985
+  Class ID: 137
+SCORECAM:
+  Predicted Class: American coot
+  Confidence: 0.5985
+  Class ID: 137
+
+Image: racer
+------------------------------
+GRADCAM:
+  Predicted Class: sports car
+  Confidence: 0.2128
+  Class ID: 817
+ABLATIONCAM:
+  Predicted Class: sports car
+  Confidence: 0.2128
+  Class ID: 817
+SCORECAM:
+  Predicted Class: sports car
+  Confidence: 0.2128
+  Class ID: 817
+
+Image: flamingo
+------------------------------
+GRADCAM:
+  Predicted Class: flamingo
+  Confidence: 0.5546
+  Class ID: 130
+ABLATIONCAM:
+  Predicted Class: flamingo
+  Confidence: 0.5546
+  Class ID: 130
+SCORECAM:
+  Predicted Class: flamingo
+  Confidence: 0.5546
+  Class ID: 130
+
+Image: kite
+------------------------------
+GRADCAM:
+  Predicted Class: spoonbill
+  Confidence: 0.1300
+  Class ID: 129
+ABLATIONCAM:
+  Predicted Class: spoonbill
+  Confidence: 0.1300
+  Class ID: 129
+SCORECAM:
+  Predicted Class: spoonbill
+  Confidence: 0.1300
+  Class ID: 129
+
+Image: goldfish
+------------------------------
+GRADCAM:
+  Predicted Class: goldfish
+  Confidence: 0.5183
+  Class ID: 1
+ABLATIONCAM:
+  Predicted Class: goldfish
+  Confidence: 0.5183
+  Class ID: 1
+SCORECAM:
+  Predicted Class: goldfish
+  Confidence: 0.5183
+  Class ID: 1
+
+Image: tiger_shark
+------------------------------
+GRADCAM:
+  Predicted Class: tiger shark
+  Confidence: 0.5517
+  Class ID: 3
+ABLATIONCAM:
+  Predicted Class: tiger shark
+  Confidence: 0.5517
+  Class ID: 3
+SCORECAM:
+  Predicted Class: tiger shark
+  Confidence: 0.5517
+  Class ID: 3
+
+Image: vulture
+------------------------------
+GRADCAM:
+  Predicted Class: vulture
+  Confidence: 0.3520
+  Class ID: 23
+ABLATIONCAM:
+  Predicted Class: vulture
+  Confidence: 0.3520
+  Class ID: 23
+SCORECAM:
+  Predicted Class: vulture
+  Confidence: 0.3520
+  Class ID: 23
+
+Image: common_iguana
+------------------------------
+GRADCAM:
+  Predicted Class: common iguana
+  Confidence: 0.3245
+  Class ID: 39
+ABLATIONCAM:
+  Predicted Class: common iguana
+  Confidence: 0.3245
+  Class ID: 39
+SCORECAM:
+  Predicted Class: common iguana
+  Confidence: 0.3245
+  Class ID: 39
+
+Image: orange
+------------------------------
+GRADCAM:
+  Predicted Class: orange
+  Confidence: 0.3807
+  Class ID: 950
+ABLATIONCAM:
+  Predicted Class: orange
+  Confidence: 0.3807
+  Class ID: 950
+SCORECAM:
+  Predicted Class: orange
+  Confidence: 0.3807
+  Class ID: 950
+
