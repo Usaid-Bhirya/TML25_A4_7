@@ -4,7 +4,7 @@ This repository contains the implementation and results for two explainability t
 
 ## 📁 Folder Structure
 
-- `task_2_results/`
+- `task_2/`
   - Implements **GradCAM**, **ScoreCAM**, and **AblationCAM**
   - Visualizations for multiple classes
   - Analysis and report files
